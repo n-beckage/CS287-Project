@@ -1,0 +1,17 @@
+# Sublime projects
+*.sublime-project
+
+# Sublime workspaces
+*.sublime-workspace
+
+# bash files (server jobs)
+*sh
+
+# tensorflow model
+/model_cicular4.tf/
+
+# test size data objs
+/n_1000_numpy_objs/
+
+# massive sdf file
+*.sdf
